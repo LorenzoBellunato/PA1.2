@@ -20,7 +20,7 @@ This is my introduction to *markdown formatting*. I'm learning how to use variou
 3. Adding code snippets
 4. Creating headers and subheaders
 
-**Important programmiing concepts:**
+**Important programming concepts:**
 
 - Variables store data values 
 - Functions are reusable blocks of code 
